@@ -14,6 +14,11 @@
 
 <center><h1>👨‍💻 Artificial Intelligence Research and Development Projects 👨‍💻</h1></center>
 
+------------------------------------------------------------------------------------------
+
+<center><h2>👨‍💻 Data Science 👨‍💻</h2></center>
+
+------------------------------------------------------------------------------------------
 <table id="customers">
   <tr>
     <center><th style="color:blue;">Projects Title </th></center>
