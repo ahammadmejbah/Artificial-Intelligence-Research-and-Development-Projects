@@ -17,12 +17,22 @@
     <center><th style="color:blue;">Code</th></center>
     <center><th style="color:blue;">Documentation</th></center>
     <center><th style="color:blue;">Tutorial</th></center>
+    <center><th style="color:blue;">Datasets</th></center>
   </tr>
   <tr>
     <td>01. Parkinson's Disease Prediction With 5 Algorithms </td>
     <td><a href="https://github.com/BytesOfIntelligences/Artificial-Intelligence-Research-and-Development-Projects/tree/main/Data%20Science%20Projects/Parkinson's%20Disease%20Prediction%20With%205%20Algorithms">Code</a></td>
     <td><a href="https://bytesofintelligences.com/category/tensorflow-developers-roadmap/">Documents</a></td>
     <td><a href="https://youtu.be/O2OgtCwYUTk">Tutorial</a></td>
+    <td><a href="https://github.com/BytesOfIntelligences/Artificial-Intelligence-Research-and-Development-Projects/tree/main/Data%20Science%20Projects/101.%20Parkinson%20Disease%20Predictions%20With%20Random%20Forest%20Classifier/Datasets">Data</a></td>
+  </tr>
+
+  <tr>
+    <td>02. Parkinson Disease Predictions With Random Forest Classifier </td>
+    <td><a href="https://github.com/BytesOfIntelligences/Artificial-Intelligence-Research-and-Development-Projects/tree/main/Data%20Science%20Projects/101.%20Parkinson%20Disease%20Predictions%20With%20Random%20Forest%20Classifier">Code</a></td>
+    <td><a href="https://bytesofintelligences.com/category/tensorflow-developers-roadmap/">Documents</a></td>
+    <td><a href="https://youtu.be/B0YKNnR8nkk?si=X12UN7jk6mYoye9D">Tutorial</a></td>
+    <td><a href="https://github.com/BytesOfIntelligences/Artificial-Intelligence-Research-and-Development-Projects/tree/main/Data%20Science%20Projects/101.%20Parkinson%20Disease%20Predictions%20With%20Random%20Forest%20Classifier/Datasets">Data</a></td>
   </tr>
 
 </table>
