@@ -37,6 +37,40 @@
 
 </table>
 
+------------------------------------------------------------------------------------------
+
+<html>
+<body>
+
+<center><h4>👨‍💻 Computer Vision and Image Processing Project 👨‍💻</h4></center>
+
+------------------------------------------------------------------------------------------
+<table id="customers">
+  <tr>
+    <center><th style="color:blue;">Projects Title </th></center>
+    <center><th style="color:blue;">Code</th></center>
+    <center><th style="color:blue;">Documentation</th></center>
+    <center><th style="color:blue;">Tutorial</th></center>
+    <center><th style="color:blue;">Datasets</th></center>
+  </tr>
+  <tr>
+    <td>01. Text Extraction from Images Using OpenCV </td>
+    <td><a href="https://github.com/BytesOfIntelligences/Fundamentals-of-Computer-Vision-and-Image-Processing/tree/main/Projects/Project%2001%3A%20Text%20Extraction%20from%20Images">Code</a></td>
+    <td><a href="https://bytesofintelligences.com/category/tensorflow-developers-roadmap/">Documents</a></td>
+    <td><a href="https://youtu.be/5ooYMjCqakE?si=10VmonjKWAWW2VWd">Tutorial</a></td>
+    <td><a href="https://github.com/BytesOfIntelligences/Fundamentals-of-Computer-Vision-and-Image-Processing/tree/main/Projects/Project%2001%3A%20Text%20Extraction%20from%20Images">Data</a></td>
+  </tr>
+
+  <tr>
+    <td>02. Face Detection Using OpenCV </td>
+    <td><a href="https://github.com/BytesOfIntelligences/Artificial-Intelligence-Research-and-Development-Projects/tree/main/Data%20Science%20Projects/101.%20Parkinson%20Disease%20Predictions%20With%20Random%20Forest%20Classifier">Code</a></td>
+    <td><a href="https://bytesofintelligences.com/category/tensorflow-developers-roadmap/">Documents</a></td>
+    <td><a href="https://youtu.be/_yH_GOfBk5s?si=B9V9PhBH33OEXNQo">Tutorial</a></td>
+    <td><a href="https://github.com/BytesOfIntelligences/Fundamentals-of-Computer-Vision-and-Image-Processing/tree/main/Projects/Project%2002%3A%20Face%20Detection">Data</a></td>
+  </tr>
+
+</table>
+
 </body>
 </html>
 
