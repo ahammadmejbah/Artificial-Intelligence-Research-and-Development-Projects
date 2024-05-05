@@ -33,7 +33,7 @@
     <td><a href="https://github.com/BytesOfIntelligences/Artificial-Intelligence-Research-and-Development-Projects/tree/main/Data%20Science%20Projects/101.%20Parkinson%20Disease%20Predictions%20With%20Random%20Forest%20Classifier/Datasets">Data</a></td>
   </tr>
 
-    <tr>
+  <tr>
     <td>03. Suspicious Web Threat Interactions </td>
     <td><a href="https://github.com/BytesOfIntelligences/Artificial-Intelligence-Research-and-Development-Projects/tree/main/Data%20Science%20Projects/101.%20Parkinson%20Disease%20Predictions%20With%20Random%20Forest%20Classifier">Code</a></td>
     <td><a href="https://bytesofintelligences.com/category/tensorflow-developers-roadmap/">Documents</a></td>
